@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.60.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JulioStore.Shared\JulioStore.shared.csproj" />
+    <ProjectReference Include="..\JulioStore.Domain\JulioStore.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

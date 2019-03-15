@@ -1,0 +1,14 @@
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.Infra.deps.json
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.Infra.dll
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.Infra.pdb
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.Domain.dll
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.shared.dll
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.shared.pdb
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\bin\Debug\netstandard2.0\JulioStore.Domain.pdb
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.csprojAssemblyReference.cache
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.AssemblyInfoInputs.cache
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.AssemblyInfo.cs
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.csproj.CopyComplete
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.dll
+C:\Users\julio.bicharra.ITRIAD\Documents\Estudos\dev\JulioStore\JulioStore.Infra\obj\Debug\netstandard2.0\JulioStore.Infra.pdb
